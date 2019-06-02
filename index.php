@@ -1,3 +1,4 @@
 <?PHP
-echo "Hello Wold.";
+echo "Hello.";
+echo "Hello Wold2."
 ?>
